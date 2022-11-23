@@ -1,3 +1,6 @@
 ikinci gun
 deneme
 git ucuncu deneme
+alfabe
+bilge
+üçüncü gün ilk deneme
